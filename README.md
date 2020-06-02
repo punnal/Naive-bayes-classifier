@@ -8,7 +8,7 @@ underwent 22 medical tests and each test was either pass or fail. As a result, f
 22 binary values were extracted.
 
 ## How to run
-'''
+```
 python3 classifier.py Spect_train Spect_test
-'''
+```
 
